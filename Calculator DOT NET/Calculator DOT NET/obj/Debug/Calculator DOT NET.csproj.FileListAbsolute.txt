@@ -1,0 +1,11 @@
+D:\Program Project\.NET\Calculator DOT NET\Calculator DOT NET\bin\Debug\Calculator DOT NET.exe.config
+D:\Program Project\.NET\Calculator DOT NET\Calculator DOT NET\bin\Debug\Calculator DOT NET.exe
+D:\Program Project\.NET\Calculator DOT NET\Calculator DOT NET\bin\Debug\Calculator DOT NET.pdb
+D:\Program Project\.NET\Calculator DOT NET\Calculator DOT NET\obj\Debug\Calculator DOT NET.csproj.AssemblyReference.cache
+D:\Program Project\.NET\Calculator DOT NET\Calculator DOT NET\obj\Debug\Calculator DOT NET.csproj.SuggestedBindingRedirects.cache
+D:\Program Project\.NET\Calculator DOT NET\Calculator DOT NET\obj\Debug\Calculator_DOT_NET.Form1.resources
+D:\Program Project\.NET\Calculator DOT NET\Calculator DOT NET\obj\Debug\Calculator_DOT_NET.Properties.Resources.resources
+D:\Program Project\.NET\Calculator DOT NET\Calculator DOT NET\obj\Debug\Calculator DOT NET.csproj.GenerateResource.cache
+D:\Program Project\.NET\Calculator DOT NET\Calculator DOT NET\obj\Debug\Calculator DOT NET.csproj.CoreCompileInputs.cache
+D:\Program Project\.NET\Calculator DOT NET\Calculator DOT NET\obj\Debug\Calculator DOT NET.exe
+D:\Program Project\.NET\Calculator DOT NET\Calculator DOT NET\obj\Debug\Calculator DOT NET.pdb
